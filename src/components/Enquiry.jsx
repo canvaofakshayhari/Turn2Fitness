@@ -97,7 +97,6 @@ export default function Enquiry({ formData, setFormData }) {
               {PLANS.map((p) => (
                 <option key={p.duration} value={p.duration}>{p.duration} — {p.price}</option>
               ))}
-              <option value="Free Trial">Just a Free Trial</option>
             </select>
 
             <textarea className="form-input" placeholder="Your message or questions..."
