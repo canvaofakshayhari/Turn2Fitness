@@ -71,15 +71,11 @@ export default function Hero({ scrollTo }) {
             alt="Turn2 Fitness Logo"
             className="logo-hero"
             style={{
-              width: "clamp(260px, 50vw, 660px)",
+              width: "clamp(760px, 28vw, 760px)",
               height: "auto",
             }}
           />
         </div>
-
-        
-
-        
 
         <p
           className="fade-in-up"
