@@ -15,7 +15,7 @@ export default function Footer({ scrollTo }) {
           }}
         >
           <span style={{ color: "#8b00ff", fontSize: 50 }}>T</span>URN
-          <span style={{ color: "#8b00ff" ,fontSize: 50 }}> 2</span>FITNESS
+          <span style={{ color: "#8b00ff" ,fontSize: 50 }}>2F</span>ITNESS
         </div>
 
         <p style={{ color: "#666", fontSize: 13, marginTop: 8 }}>
